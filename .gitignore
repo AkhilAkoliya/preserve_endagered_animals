@@ -1,0 +1,4 @@
+.Python
+build/
+.idea/**
+ui/__pycache__/
